@@ -334,11 +334,6 @@ plt.show()
 ```
 
 
-    
-![png](MLP_pinguinos_g9_s3_files/MLP_pinguinos_g9_s3_18_0.png)
-    
-
-
 
 ```python
 # Print the classification report to evaluate the model's performance
